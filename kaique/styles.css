@@ -48,7 +48,7 @@
     display: none;
   }
   
-  /* Todo Header */
+  /*Header*/
   .todo-container {
     max-width: 450px;
     margin: 3rem auto 0;
@@ -63,7 +63,7 @@
     border-bottom: 1px solid #ccc;
   }
   
-  /* Todo Form */
+  /*Form*/
   #todo-form,
   #edit-form {
     padding: 1rem;
@@ -89,7 +89,7 @@
     color: #444;
   }
   
-  /* Todo Toolbar */
+  /*Toolbar*/
   #toolbar {
     padding: 1rem;
     border-bottom: 1px solid #ccc;
@@ -128,7 +128,7 @@
     flex: 1;
   }
   
-  /* Todo List */
+  /*List*/
   .todo {
     display: flex;
     justify-content: space-around;
